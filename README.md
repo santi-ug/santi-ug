@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Analytical** 2nd year Systems Engineering student minoring in Software Engineering at Universidad Autonoma de Manizales. I have a solid foundation of the best software principles and patterns, and a desire to gain more expertise. I get excited about opportunities where I’m able to challenge myself, as well as work alongside more experienced engineers, learning from them in the potential following areas:
+An **analytical** 2nd year Systems Engineering student minoring in Software Engineering at Universidad Autonoma de Manizales. I have a solid foundation of the best software principles and patterns, and a desire to gain more expertise. I get excited about opportunities where I’m able to challenge myself, as well as work alongside more experienced engineers, learning from them in the potential following areas:
 - Web development (frontend/backend)
 - Software development
 - Game development
