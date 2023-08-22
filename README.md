@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - Web development (frontend/backend)
 - Software development
 - Game development
-- Technological innovations. 
+- Technological innovations.
+
 I work well under pressure and in difficult environments thanks to my work ethic. I am aware that meeting requirements is essential. One of my several strengths is that **I will not fail to meet the expectations,** and will go above and beyond them.
 
 ⚡ I’m searching for a company that can offer me a new work experience/internship. Primarily but not limited to; the summer/winter season.
