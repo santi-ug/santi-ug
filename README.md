@@ -24,4 +24,4 @@ I acquire a solid foundation of the best software principles and patterns, I loo
 
 My work ethic grants me versatile skills which helps me perform well under pressure and against environmental stressors. I am aware that meeting requirements is essential. One of my several strengths is my determination to execute performances at a proficient level at the given tasks or goals, perhaps exceeding expectations and that entails my drive to go above and beyond.
 
-I’m searching for a company that can offer me a new work experience/internship. Primarily but not limited to; the summer/winter season.
+**I’m searching for a company that can offer me a new work experience/internship. Primarily but not limited to; the summer/winter season.**
