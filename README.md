@@ -1,4 +1,4 @@
-🕶️ Santi
+🕶️ santi
 ===========
 
 
@@ -6,7 +6,7 @@ i like to code, develop in the cloud, and architect clean, sleek and impactful s
 
 in my free time, if im not messing with my config files, im probably watching anime or at the gym
 
-## **Skills**
+## **skills**
 
 <p align="left">
   <a href="https://skillicons.dev">
