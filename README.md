@@ -15,7 +15,8 @@ in my free time, if im not messing with my config files, im probably watching an
 </p>
 
 
-i use arch btw <p align="left">
+ <p align="left">
+i use arch btw
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch&perline=15" />
   </a>
