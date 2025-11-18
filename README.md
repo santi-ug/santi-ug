@@ -14,4 +14,5 @@ in my free time, if im not messing with my config files, im probably watching an
   </a>
 </p>
 
-i use arch btw <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="16" />
+i use arch btw <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="14" style="vertical-align:middle;" />
+
