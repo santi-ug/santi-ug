@@ -14,10 +14,4 @@ in my free time, if im not messing with my config files, im probably watching an
   </a>
 </p>
 
-
- <p align="left">
-i use arch btw
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch&perline=15" />
-  </a>
-</p>
+i use arch btw <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="16" />
