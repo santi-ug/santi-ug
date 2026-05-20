@@ -2,7 +2,7 @@ santi 🕶️
 ===========
 
 
-i like to code, develop in the cloud, and architect clean, sleek and impactful solutions for different kinds of problems.
+i like to automate, code, develop in the cloud, work with AI and architect clean, sleek and impactful solutions for different kinds of problems.
 
 in my free time, if im not messing with my config files, im probably watching anime or at the gym
 
