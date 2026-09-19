@@ -2,7 +2,7 @@ santi 🕶️
 ===========
 
 
-i like to automate, code, develop in the cloud, work with AI and architect clean, sleek and impactful solutions for different kinds of problems.
+i like to build, design, automate, code, work with AI and architect clean, sleek and impactful solutions.
 
 in my free time, if im not messing with my config files, im probably watching anime or at the gym
 
@@ -15,5 +15,6 @@ in my free time, if im not messing with my config files, im probably watching an
 </p>
 
 i use arch btw <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="14" style="vertical-align:middle;" />
+<br/>
 ^ nvm swapped to macos 
 
